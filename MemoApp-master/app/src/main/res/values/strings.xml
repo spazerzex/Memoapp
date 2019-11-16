@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Memo App</string>
+    <string name="memo_title">Memo</string>
+    <string-array name="title">
+        <item>Memo 1</item>
+        <item>Memo 2</item>
+        <item>Memo 3</item>
+        <item>Memo 4</item>
+        <item>Memo 5</item>
+    </string-array>
+    <string-array name="body">
+        <item>Body 1</item>
+        <item>Body 2</item>
+        <item>Body 3</item>
+        <item>Body 4</item>
+        <item>Body 5</item>
+    </string-array>
+</resources>
